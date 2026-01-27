@@ -18,6 +18,7 @@ and real-world impact. Currently exploring machine learning and data-driven solu
 <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=purple"/>
 <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=red"/>
 <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Html-000000?style=flat&logo=Html&logoColor=orange"/>
 </p>
 
 ---
