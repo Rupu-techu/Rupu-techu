@@ -3,9 +3,29 @@
   />
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<div align="right">
+
+```svg
+<svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 16px;
+      fill: #58a6ff;
+      animation: typing 4s steps(40) infinite;
+      white-space: pre;
+    }
+    @keyframes typing {
+      from { clip-path: inset(0 100% 0 0); }
+      to { clip-path: inset(0 0 0 0); }
+    }
+  </style>
+  <text x="20" y="40" class="text">def train_model(data):</text>
+  <text x="20" y="70" class="text">    model.fit(X, y)</text>
+  <text x="20" y="100" class="text">    return accuracy</text>
+</svg>
 </div>
+ ```
 
 
 <h2 align="left">👋 Hi, I'm Rupsha!</h2>
