@@ -6,7 +6,9 @@
 <h2 align="left">👋 Hi, I'm Rupsha!</h2>
 
 🎓 2nd Year B.Tech CSE (AI & ML)  
+
 🧠 Enthusiast about AI and ML learning 
+
 📍 Kolkata, India  
 
 ---
@@ -26,6 +28,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+---
+
 ### 🧪Currently exploring
 
 **model evaluation, feature engineering and basic deployment**
@@ -41,6 +45,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rupu-techu&hide_border=true&theme=github-dark"/>
 </p>
 
+
 ---
 
 ### 🔗 Connect with me
@@ -48,7 +53,6 @@
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rupsha-debnath-056739317//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
   <a href="https://github.com/Rupu-techu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
