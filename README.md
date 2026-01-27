@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=800&color=6B7280&center=true&vCenter=true&width=480&lines=console.log(%22Hello%2C+world%22);;def+main():;print(%22Building+quietly+%E2%9C%A8%22);while+learning%3A+code();"
-  />
+  <img src="https://github-readme-terminal.vercel.app/api?theme=dark&color=gray&height=160&width=480" />
 </p>
-
 
 <h2>Hi, I’m Rupsha 💫</h2>
 
