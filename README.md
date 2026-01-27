@@ -12,7 +12,7 @@ and real-world impact. Currently exploring machine learning and data-driven solu
 
 ---
 
-### 🔭 Tech Stack
+### Tech Stack 🔭
 <p>
 <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=purple"/>
@@ -33,7 +33,8 @@ and real-world impact. Currently exploring machine learning and data-driven solu
 
 ---
 
-###📫 Contact
+### Contact 📫
+
 • GitHub: https://github.com/Rupu-techu 
 
 • LinkedIn: https://www.linkedin.com/in/rupsha-debnath-056739317/
