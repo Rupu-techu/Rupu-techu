@@ -1,9 +1,4 @@
-<div align="right">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Technologist/3D/technologist_3d.png" width="170"/>
-</div>
-<div align="right">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/anime-girl.png" width="180"/>
-</div>
+
 
 <h2>Hi, I’m Rupsha 💫</h2>
 
@@ -20,8 +15,8 @@ and real-world impact. Currently exploring machine learning and data-driven solu
 ### 🔭 Tech Stack
 <p>
 <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=purple"/>
+<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=red"/>
 <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=orange"/>
 </p>
 
