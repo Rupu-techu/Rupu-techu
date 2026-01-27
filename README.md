@@ -40,8 +40,7 @@ and real-world impact. Currently exploring machine learning and data-driven solu
 
 ### Contact
 • GitHub: https://github.com/Rupu-techu 
-• LinkedIn: https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.150089839322_crid.656569072780_kw.www%20linkedin_d.c_tid.kwd-2246447582_n.g_mt.e_geo.9301995
-
+• LinkedIn: https://www.linkedin.com/in/rupsha-debnath-056739317/
 
 <!--
 **Rupu-techu/Rupu-techu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
