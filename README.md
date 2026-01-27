@@ -3,6 +3,11 @@
   />
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+</div>
+
+
 <h2 align="left">👋 Hi, I'm Rupsha!</h2>
 
 🎓 2nd Year B.Tech CSE (AI & ML)  
