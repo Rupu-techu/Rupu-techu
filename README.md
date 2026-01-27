@@ -3,58 +3,50 @@
   />
 </p>
 
+<h2 align="left">👋 Hi, I'm Rupsha!</h2>
 
-<h2>Hi, I’m Rupsha 💫</h2>
-
-Aspiring Software Developer • AI & ML Enthusiast • Always open to learning
-
----
-
-### About🌱
-I enjoy building clean, efficient systems with a focus on learning, scalability,  
-and real-world impact. Currently exploring machine learning and data-driven solutions.
+🎓 2nd Year B.Tech CSE (AI & ML)  
+🧠 Enthusiast about AI and ML learning 
+📍 Kolkata, India  
 
 ---
 
-### Tech Stack 🔭
+### 🧰 Tech Stack
 <p>
-<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=purple"/>
-<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=red"/>
-<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Html-000000?style=flat&logo=Html&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+🧪 Currently exploring: **model evaluation, feature engineering and basic deployment**
+
+---
+
+### 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&hide_border=true&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rupu-techu&hide_border=true&theme=github-dark"/>
 </p>
 
 ---
 
-### GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&hide_border=true&theme=graywhite"/>
+### 🔗 Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rupsha-debnath-056739317//" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rupu-techu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupu-techu&layout=compact&hide_border=true&theme=graywhite"/>
-</p>
-
----
-
-### Contact 📫
-
-• GitHub: https://github.com/Rupu-techu 
-
-• LinkedIn: https://www.linkedin.com/in/rupsha-debnath-056739317/
-
-<!--
-**Rupu-techu/Rupu-techu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
