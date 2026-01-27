@@ -2,6 +2,7 @@
   <img src="https://github-readme-terminal.vercel.app/api?theme=dark&color=gray&height=160&width=480" />
 </p>
 
+
 <h2>Hi, I’m Rupsha 💫</h2>
 
 Aspiring Software Developer • AI & ML Enthusiast • Always open to learning
