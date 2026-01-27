@@ -11,18 +11,18 @@ Aspiring Software Developer • AI & ML Enthusiast • Always open to learning
 
 ---
 
-### About
+### About🌱
 I enjoy building clean, efficient systems with a focus on learning, scalability,  
 and real-world impact. Currently exploring machine learning and data-driven solutions.
 
 ---
 
-### Tech Stack
+### 🔭 Tech Stack
 <p>
-<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=orange"/>
 </p>
 
 ---
@@ -38,8 +38,9 @@ and real-world impact. Currently exploring machine learning and data-driven solu
 
 ---
 
-### Contact
+###📫 Contact
 • GitHub: https://github.com/Rupu-techu 
+
 • LinkedIn: https://www.linkedin.com/in/rupsha-debnath-056739317/
 
 <!--
