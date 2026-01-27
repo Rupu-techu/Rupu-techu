@@ -38,6 +38,7 @@
 
 ## 📊 Stats
 
+<div align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupu-techu&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=github_dark)
@@ -45,6 +46,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rupu-techu&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rupu-techu&theme=github_dark&utcOffset=5.5)
+</div>
 
 
 ---
