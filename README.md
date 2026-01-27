@@ -53,19 +53,13 @@
 ---
 
 ### 🔗 Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rupsha-debnath-056739317//" target="_blank"style="text-decoration:none;"display:inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"style="border:0;"display:block;">
-  </a>
-  <a href="https://github.com/Rupu-techu" target="_blank"style="text-decoration:none;"display:inline-block;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"style="border:0;"display:block;">
-  </a>
-  <a href="https://www.hackerrank.com/debi_rup" target="_blank"style="text-decoration:none;"display:inline-block;">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"style="border:0;"display:block;">
-</a>
-<a href="mailto:debi.rup@gmail.com" target="_blank"style="text-decoration:none;"display:inline-block;">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"style="border:0;"display:block;">
+<a href="https://www.linkedin.com/in/rupsha-debnath-056739317/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/Rupu-techu" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.hackerrank.com/debi_rup" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a><a href="mailto:debi.rup@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-
-</p>
