@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-terminal.vercel.app/api?theme=dark&color=gray&height=160&width=480" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=Loading+workspace...;Opening+editor...;Writing+clean+code.;Staying+curious."
+  />
 </p>
 
 
