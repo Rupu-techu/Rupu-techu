@@ -5,9 +5,9 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/anime-girl.png" width="180"/>
 </div>
 
-<h2>Hi, I’m Your Name</h2>
+<h2>Hi, I’m Rupsha 💫</h2>
 
-Software Developer • Data & ML Enthusiast
+Aspiring Software Developer • AI & ML Enthusiast • Always open to learning
 
 ---
 
@@ -29,18 +29,18 @@ and real-world impact. Currently exploring machine learning and data-driven solu
 
 ### GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=graywhite"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&hide_border=true&theme=graywhite"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=graywhite"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupu-techu&layout=compact&hide_border=true&theme=graywhite"/>
 </p>
 
 ---
 
 ### Contact
-• GitHub: https://github.com/YOUR_USERNAME  
-• LinkedIn: https://linkedin.com/in/YOUR_LINK
+• GitHub: https://github.com/Rupu-techu 
+• LinkedIn: https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.150089839322_crid.656569072780_kw.www%20linkedin_d.c_tid.kwd-2246447582_n.g_mt.e_geo.9301995
 
 
 <!--
