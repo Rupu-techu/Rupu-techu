@@ -257,8 +257,8 @@ Believe in learning by building
 
 
 
-Connect section v2 · MD
-## Connect With Me
+
+
  
 ## Connect With Me
 
