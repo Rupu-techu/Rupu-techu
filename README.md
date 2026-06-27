@@ -24,7 +24,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ### About Me
 
