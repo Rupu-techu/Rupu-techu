@@ -135,6 +135,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 ## Featured Projects
 
+---
 <div align="center">
 
 <table border="0" cellspacing="20" cellpadding="0" width="100%">
@@ -205,8 +206,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 <br/><br/>
 
-### GitHub Stats
----
+
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
@@ -219,6 +219,8 @@ Building intelligent systems, exploring data, and continuously learning through 
 </div>
 
 <br/>
+### GitHub Stats
+---
 
 <div align="center">
 <!-- ─── Profile Details (full width) ─────────────────────────────────────── -->
