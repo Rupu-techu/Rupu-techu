@@ -1,8 +1,6 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=9CA3AF&center=true&vCenter=true&multiline=true&width=420&height=120&lines=%3E+Loading+workspace...;%3E+Opening+editor...;%3E+Writing+clean+code.;%3E+Staying+curious."
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=9CA3AF&center=true&vCenter=true&width=450&lines=Loading+workspace...;Opening+editor...;Writing+clean+code.;Staying+curious." alt="Typing SVG" />
+</p>
   <img
     src="./assets/coding-girl.gif"
     width="230"
