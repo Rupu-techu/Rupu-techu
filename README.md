@@ -8,11 +8,10 @@
 
 <td>
 
-<img src="./assets/coding-girl.gif" width="220" alt="Coding Girl"/>
+<img src="./assets/coding-girl.gif" width="300" alt="Coding Girl"/>
 
 </td>
 </tr>
-</table>
 <h2 align="left">👋 Hi, I'm Rupsha!</h2>
 
 🎓 2nd Year B.Tech CSE (AI & ML)  
