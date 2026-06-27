@@ -28,6 +28,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 ## About Me
 
+---
 <div align="center">
 
 🤖 AI & Machine Learning Enthusiast &nbsp;•&nbsp; 🔬 Passionate about building practical AI solutions
@@ -40,6 +41,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 ### Currently Exploring
 
+---
 <br/>
 
 <img src="https://img.shields.io/badge/🧠-Machine%20Learning-1a1a2e?style=for-the-badge" alt="Machine Learning" />
@@ -59,6 +61,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 ### Tech Stack
 
+---
 <br/>
 
 **Languages**
@@ -199,7 +202,11 @@ Building intelligent systems, exploring data, and continuously learning through 
 <img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
 <img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
 
-<br/><br/>
+<br/>
+
+### GitHub Stats
+---
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](#)
