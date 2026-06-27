@@ -253,31 +253,25 @@ Believe in learning by building
 <p align="center">
   <img src="./assets/commit_rhythm_waveform_preview.svg" width="900">
 </p>
----
+
 
 
 
 Connect section v2 · MD
 ## Connect With Me
  
-<div align="center">
-<a href="https://www.linkedin.com/in/rupsha-debnath-056739317">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" height="35" alt="LinkedIn" />
-</a> 
-&ensp;
-<a href="https://github.com/Rupu-techu">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto" height="35" alt="GitHub" />
-</a> 
-&ensp;
-<a href="https://codolio.com/profile/rupu_techu">
-  <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAxN2wtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white&logoSize=auto" height="35" alt="Codolio" />
-</a>
-&ensp;
-<a href="https://leetcode.com/u/rupu-techu/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoSize=auto" height="35" alt="LeetCode" />
+## Connect With Me
 
-&ensp;
-<a href="mailto:debi.rup@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" height="35" alt="Email" />
-</a>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupsha-debnath-056739317)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupu-techu)
+
+[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAxN2wtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white)](https://codolio.com/profile/rupu_techu)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rupu-techu/)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debi.rup@gmail.com)
+
 </div>
