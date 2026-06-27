@@ -1,12 +1,18 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=9CA3AF&center=true&vCenter=true&width=450&lines=Loading+workspace...;Opening+editor...;Writing+clean+code.;Staying+curious." alt="Typing SVG" />
-</p>
-  <img
-    src="./assets/coding-girl.gif"
-    width="230"
-    alt="Coding Girl"
-  />
-</p>
+<table align="center">
+<tr>
+<td>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=9CA3AF&vCenter=true&width=420&lines=Loading+workspace...;Opening+editor...;Writing+clean+code.;Staying+curious." alt="Typing SVG"/>
+
+</td>
+
+<td>
+
+<img src="./assets/coding-girl.gif" width="220" alt="Coding Girl"/>
+
+</td>
+</tr>
+</table>
 <h2 align="left">👋 Hi, I'm Rupsha!</h2>
 
 🎓 2nd Year B.Tech CSE (AI & ML)  
