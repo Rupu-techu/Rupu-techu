@@ -3,9 +3,11 @@
 </p>
 <div align="center">
 
+<div align="center">
+
 <h1>👋 Hi, I'm Rupsha Debnath</h1>
 
-<h3> Computer Science (AI & ML) Undergraduate</h3>
+<h3>AI &amp; Machine Learning Undergraduate</h3>
 
 <p>
 Building intelligent systems, exploring data, and continuously learning through projects.
@@ -21,6 +23,25 @@ Building intelligent systems, exploring data, and continuously learning through 
 <br/>
 
 </div>
+
+<div align="center">
+
+### About Me
+
+<br/>
+
+<p>
+AI &amp; Machine Learning undergraduate<br/>
+Passionate about building practical AI solutions<br/>
+Interested in Machine Learning, NLP, Computer Vision and Data Science<br/>
+Always exploring new technologies through projects<br/>
+Believe in learning by building
+</p>
+
+<br/>
+
+</div>
+
 
 ### 🧰 Tech Stack
 <p>
