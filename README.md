@@ -1,15 +1,26 @@
 <p align="center">
   <img src="./assets/banner.svg" alt="Banner" width="100%">
 </p>
-<h2 align="left">👋 Hi, I'm Rupsha!</h2>
+<div align="center">
 
-🎓 2nd Year B.Tech CSE (AI & ML)  
+<h1>👋 Hi, I'm Rupsha Debnath</h1>
 
-🧠 Enthusiast about AI and ML learning 
+<h3>AI &amp; Computer Science (AI & ML) Undergraduate</h3>
 
-📍 Kolkata, India  
+<p>
+Building intelligent systems, exploring data, and continuously learning through projects.
+</p>
 
----
+<br/>
+
+<img src="https://img.shields.io/badge/📍-Kolkata%2C%20India-1a1a2e?style=flat-square" alt="Location: Kolkata, India" />
+<img src="https://img.shields.io/badge/🎓-B.Tech%20CSE%20(AI%20%26%20ML)-1a1a2e?style=flat-square" alt="B.Tech CSE (AI & ML)" />
+<img src="https://img.shields.io/badge/🌱-Lifelong%20Learner-1a1a2e?style=flat-square" alt="Lifelong Learner" />
+
+<br/>
+<br/>
+
+</div>
 
 ### 🧰 Tech Stack
 <p>
