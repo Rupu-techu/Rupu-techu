@@ -7,7 +7,7 @@
 
 <h1>👋 Hi, I'm Rupsha Debnath</h1>
 
-<h3>AI &amp; Machine Learning Undergraduate</h3>
+<h3> Computer Science (AI & ML) Undergraduate</h3>
 
 <p>
 Building intelligent systems, exploring data, and continuously learning through projects.
@@ -31,7 +31,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 <br/>
 
 <p>
-AI &amp; Machine Learning undergraduate<br/>
+AI &amp; Machine Learning Enthusiast<br/>
 Passionate about building practical AI solutions<br/>
 Interested in Machine Learning, NLP, Computer Vision and Data Science<br/>
 Always exploring new technologies through projects<br/>
@@ -42,6 +42,22 @@ Believe in learning by building
 
 </div>
 
+
+<div align="center">
+
+### Currently Exploring
+
+<br/>
+
+<img src="https://img.shields.io/badge/🧠-Machine%20Learning-1a1a2e?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/📊-Model%20Evaluation-1a1a2e?style=for-the-badge" alt="Model Evaluation" />
+<img src="https://img.shields.io/badge/🛠️-Feature%20Engineering-1a1a2e?style=for-the-badge" alt="Feature Engineering" />
+<img src="https://img.shields.io/badge/🚀-Deployment-1a1a2e?style=for-the-badge" alt="Deployment" />
+
+<br/>
+<br/>
+
+</div>
 
 ### 🧰 Tech Stack
 <p>
