@@ -5,7 +5,7 @@
 
 <h1>👋 Hi, I'm Rupsha Debnath</h1>
 
-<h3>AI &amp; Computer Science (AI & ML) Undergraduate</h3>
+<h3> Computer Science (AI & ML) Undergraduate</h3>
 
 <p>
 Building intelligent systems, exploring data, and continuously learning through projects.
