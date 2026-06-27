@@ -211,19 +211,38 @@ Believe in learning by building
 
 </div>
 
-## 📊 Stats
-
 <div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupu-techu&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupu-techu&theme=github_dark)
+### GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rupu-techu&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rupu-techu&theme=github_dark&utcOffset=5.5)
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupu-techu&theme=github_dark" alt="Profile Details" />
+
+<br/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=github_dark" alt="Repositories per Language" />
+
+<br/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupu-techu&theme=github_dark" alt="Most Commit Language" />
+
+<br/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rupu-techu&theme=github_dark" alt="GitHub Stats" />
+
+<br/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rupu-techu&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+
+<br/>
+<br/>
+
 </div>
-
 
 ---
 
