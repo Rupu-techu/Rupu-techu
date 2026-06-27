@@ -136,13 +136,80 @@ Believe in learning by building
 
 </div>
 
----
+<div align="center">
 
-### 🧪Currently exploring
+### Featured Projects
 
-**model evaluation, feature engineering and basic deployment**
+<br/>
 
----
+<table border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td align="center" valign="top">
+
+**[Project Title 1]**
+
+[One or two line description of what this project does and the problem it solves.]
+
+<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td align="center" valign="top">
+
+**[Project Title 2]**
+
+[One or two line description of what this project does and the problem it solves.]
+
+<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td align="center" valign="top">
+
+**[Project Title 3]**
+
+[One or two line description of what this project does and the problem it solves.]
+
+<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 📊 Stats
 
