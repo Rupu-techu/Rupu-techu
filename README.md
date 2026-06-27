@@ -26,26 +26,17 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 <div align="center">
 
-### About Me
+## About Me
 
+<div align="center">
+
+🤖 AI & Machine Learning Enthusiast &nbsp;•&nbsp; 🔬 Passionate about building practical AI solutions
 <br/>
-
-<p>
-AI &amp; Machine Learning Enthusiast<br/>
-Passionate about building practical AI solutions<br/>
-Interested in Machine Learning, NLP, Computer Vision and Data Science<br/>
-Always exploring new technologies through projects<br/>
-Believe in learning by building
-</p>
-
+🧠 Interested in Machine Learning, NLP, Computer Vision and Data Science
 <br/>
+🚀 Always exploring new technologies through projects &nbsp;•&nbsp; 🏗️ Believe in learning by building
 
 </div>
-
-
-<div align="center">
-
-<div align="center">
 
 ### Currently Exploring
 
