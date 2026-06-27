@@ -138,19 +138,20 @@ Believe in learning by building
 
 <div align="center">
 
-### Featured Projects
+## Featured Projects
 
-<br/>
+<div align="center">
 
-<table border="0" cellspacing="20" cellpadding="0">
+<table border="0" cellspacing="20" cellpadding="0" width="100%">
 <tr>
-<td align="center" valign="top">
+<td align="center" width="50%" valign="top">
+
+<img src="https://via.placeholder.com/400x200/161b22/58a6ff?text=Project+Banner" width="100%" alt="Project 1 Banner" />
 
 **[Project Title 1]**
 
-[One or two line description of what this project does and the problem it solves.]
+[One line description of what this project does.]
 
-<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
 <img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
 <img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
 
@@ -160,20 +161,14 @@ Believe in learning by building
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </td>
-</tr>
-</table>
+<td align="center" width="50%" valign="top">
 
-<br/>
-
-<table border="0" cellspacing="20" cellpadding="0">
-<tr>
-<td align="center" valign="top">
+<img src="https://via.placeholder.com/400x200/161b22/58a6ff?text=Project+Banner" width="100%" alt="Project 2 Banner" />
 
 **[Project Title 2]**
 
-[One or two line description of what this project does and the problem it solves.]
+[One line description of what this project does.]
 
-<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
 <img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
 <img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
 
@@ -184,19 +179,32 @@ Believe in learning by building
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-<table border="0" cellspacing="20" cellpadding="0">
 <tr>
-<td align="center" valign="top">
+<td align="center" width="50%" valign="top">
+
+<img src="https://via.placeholder.com/400x200/161b22/58a6ff?text=Project+Banner" width="100%" alt="Project 3 Banner" />
 
 **[Project Title 3]**
 
-[One or two line description of what this project does and the problem it solves.]
+[One line description of what this project does.]
 
 <img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<img src="https://via.placeholder.com/400x200/161b22/58a6ff?text=Project+Banner" width="100%" alt="Project 4 Banner" />
+
+**[Project Title 4]**
+
+[One line description of what this project does.]
+
 <img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
 <img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
 
@@ -211,33 +219,44 @@ Believe in learning by building
 
 </div>
 
+<br/>
+
+## GitHub Stats
+
 <div align="center">
 
-### GitHub Stats
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupu-techu&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupu-techu&theme=tokyonight" alt="Profile Details" />
 
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=github_dark" alt="Repositories per Language" />
+<table border="0" cellspacing="15" cellpadding="0">
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=tokyonight" alt="Repositories per Language" />
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupu-techu&theme=tokyonight" alt="Most Commit Language" />
+</td>
+</tr>
+</table>
 
 <br/>
+
+<table border="0" cellspacing="15" cellpadding="0">
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</td>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupu-techu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupu-techu&theme=github_dark" alt="Most Commit Language" />
-
-<br/>
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rupu-techu&theme=github_dark" alt="GitHub Stats" />
-
-<br/>
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rupu-techu&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rupu-techu&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 
 <br/>
 <br/>
