@@ -1,8 +1,18 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=Loading+workspace...;Opening+editor...;Writing+clean+code.;Staying+curious."
-  />
-</p>
+<table>
+<tr>
+<td width="65%">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=C792EA&multiline=true&repeat=true&width=500&height=120&lines=%3E+Initializing+AI...;%3E+Loading+datasets...;%3E+Training+models...;%3E+Building+cool+projects." />
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="./assets/coding-girl.gif" width="220"/>
+
+</td>
+</tr>
+</table>
 <h2 align="left">👋 Hi, I'm Rupsha!</h2>
 
 🎓 2nd Year B.Tech CSE (AI & ML)  
