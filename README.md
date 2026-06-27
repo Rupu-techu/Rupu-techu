@@ -24,7 +24,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 </div>
 
-<div align="left">
+<div align="center">
 
 ### About Me
 
@@ -270,4 +270,12 @@ Believe in learning by building
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rupu-techu/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debi.rup@gmail.com)
 
+</div>
+
+<div align="center">
+<br/>
+
+<sub>— Thanks for visiting my profile. —</sub>
+
+<br/>
 </div>
