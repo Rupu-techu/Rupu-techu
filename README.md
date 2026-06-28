@@ -102,9 +102,9 @@ ML-powered cloud monitoring platform that detects infrastructure anomalies, anal
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/soumi-saha12/cloud_anomaly_detection_system)
+[![GitHub](https://img.shields.io/badge/GitHub-F7E7F5?style=for-the-badge&logo=github&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://github.com/soumi-saha12/cloud_anomaly_detection_system)
 &nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-009688?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d4a45)](https://cloud-anomaly-detection-system.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-F7E7F5?style=for-the-badge&logo=vercel&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://cloud-anomaly-detection-system.vercel.app)
 
 <br/><br/>
 
@@ -124,9 +124,9 @@ AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform bui
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/Rupu-techu/Aegisnexus-AI)
+[![GitHub](https://img.shields.io/badge/GitHub-F7E7F5?style=for-the-badge&logo=github&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://github.com/Rupu-techu/Aegisnexus-AI)
 &nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-009688?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d4a45)](https://aegisnexus-ai-foqkxqvlxjh4isaxvi4msj.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-F7E7F5?style=for-the-badge&logo=vercel&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://aegisnexus-ai-foqkxqvlxjh4isaxvi4msj.streamlit.app/)
 
 <br/><br/>
 
@@ -147,9 +147,9 @@ Onco-AI is a Machine Learning based system trained to detect early stage cancer.
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/Rupu-techu/OncoAI-Early-stage-Cancer-Detector)
+[![GitHub](https://img.shields.io/badge/GitHub-F7E7F5?style=for-the-badge&logo=github&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://github.com/Rupu-techu/OncoAI-Early-stage-Cancer-Detector)
 &nbsp;&nbsp;
-[![Video Demo](https://img.shields.io/badge/Video%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=1a3a6e)](https://github.com/user-attachments/assets/6c8a80f0-b247-4d51-a2f1-678d7ad9b161)
+[![Video Demo](https://img.shields.io/badge/Video%20Demo-F7E7F5?style=for-the-badge&logo=googledrive&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://github.com/user-attachments/assets/6c8a80f0-b247-4d51-a2f1-678d7ad9b161)
 
 <br/><br/>
 
@@ -168,9 +168,10 @@ AI-powered election guide that helps voters understand elections with confidence
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/Rupu-techu/ELECTO_interactive-election-assistant)
-&nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-009688?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d4a45)](https://electo-interactive-election-assista.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-F7E7F5?style=for-the-badge&logo=github&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://github.com/Rupu-techu/ELECTO_interactive-election-assistant)
+<br/>
+<br/>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-F7E7F5?style=for-the-badge&logo=vercel&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://electo-interactive-election-assista.vercel.app)
 
 <br/><br/>
 
@@ -244,11 +245,11 @@ AI-powered election guide that helps voters understand elections with confidence
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupsha-debnath-056739317)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupu-techu)
-[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAxN2wtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white)](https://codolio.com/profile/rupu_techu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rupu-techu/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debi.rup@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7E7F5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://www.linkedin.com/in/rupsha-debnath-056739317)
+[![GitHub](https://img.shields.io/badge/GitHub-F7E7F5?style=for-the-badge&logo=github&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://github.com/Rupu-techu)
+[![Codolio](https://img.shields.io/badge/Codolio-F7E7F5?style=for-the-badge&color=B784F7&labelColor=B784F7)](https://codolio.com/profile/rupu_techu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F7E7F5?style=for-the-badge&logo=leetcode&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://leetcode.com/u/rupu-techu/)
+[![Email](https://img.shields.io/badge/Email-F7E7F5?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](mailto:debi.rup@gmail.com)
 
 </div>
 
