@@ -289,3 +289,8 @@ alt="GitHub Streak" />
 
 <br/>
 </div>
+## 🕹️ Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rupu-techu/Rupu-techu/output/pacman-contribution-graph.svg">
+</p>
