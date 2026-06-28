@@ -97,8 +97,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 ML-powered cloud monitoring platform that detects infrastructure anomalies, analyzes system health metrics, and generates intelligent alerts for proactive incident response.
 
-<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
-<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
 <br/><br/>
 
