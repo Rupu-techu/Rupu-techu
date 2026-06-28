@@ -26,6 +26,8 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 
 
+<div align="left">
+
 ## About Me
 
 ---
@@ -43,21 +45,10 @@ Building intelligent systems, exploring data, and continuously learning through 
 ### Currently Exploring
 
 ---
-<br/>
-<div align="left">
 
-<img src="https://img.shields.io/badge/🧠-Machine%20Learning-1a1a2e?style=for-the-badge" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/📊-Model%20Evaluation-1a1a2e?style=for-the-badge" alt="Model Evaluation" />
-<img src="https://img.shields.io/badge/🛠️-Feature%20Engineering-1a1a2e?style=for-the-badge" alt="Feature Engineering" />
-<img src="https://img.shields.io/badge/🚀-Deployment-1a1a2e?style=for-the-badge" alt="Deployment" />
-<img src="https://img.shields.io/badge/🤖-Deep%20Learning-1a1a2e?style=for-the-badge" alt="Deep Learning" />
-<img src="https://img.shields.io/badge/💬-Natural%20Language%20Processing-1a1a2e?style=for-the-badge" alt="Natural Language Processing" />
-<img src="https://img.shields.io/badge/👁️-Computer%20Vision-1a1a2e?style=for-the-badge" alt="Computer Vision" />
-<img src="https://img.shields.io/badge/⚙️-MLOps-1a1a2e?style=for-the-badge" alt="MLOps" />
-<img src="https://img.shields.io/badge/🌐-Frontend%20Development-1a1a2e?style=for-the-badge" alt="Frontend Development" />
+<img src="https://img.shields.io/badge/🧠-Machine%20Learning-1a1a2e?style=for-the-badge" alt="Machine Learning" />&nbsp;<img src="https://img.shields.io/badge/📊-Model%20Evaluation-1a1a2e?style=for-the-badge" alt="Model Evaluation" />&nbsp;<img src="https://img.shields.io/badge/🛠️-Feature%20Engineering-1a1a2e?style=for-the-badge" alt="Feature Engineering" />&nbsp;<img src="https://img.shields.io/badge/🚀-Deployment-1a1a2e?style=for-the-badge" alt="Deployment" />&nbsp;<img src="https://img.shields.io/badge/🤖-Deep%20Learning-1a1a2e?style=for-the-badge" alt="Deep Learning" />&nbsp;<img src="https://img.shields.io/badge/💬-Natural%20Language%20Processing-1a1a2e?style=for-the-badge" alt="Natural Language Processing" />&nbsp;<img src="https://img.shields.io/badge/👁️-Computer%20Vision-1a1a2e?style=for-the-badge" alt="Computer Vision" />&nbsp;<img src="https://img.shields.io/badge/⚙️-MLOps-1a1a2e?style=for-the-badge" alt="MLOps" />&nbsp;<img src="https://img.shields.io/badge/🌐-Frontend%20Development-1a1a2e?style=for-the-badge" alt="Frontend Development" />
 
 </div>
-<br/>
 
 <div align="left">
 
