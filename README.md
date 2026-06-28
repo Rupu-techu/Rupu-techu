@@ -184,37 +184,44 @@ AI-powered election guide that helps voters understand elections with confidence
 <div align="left">
 
 ### 📊 GitHub Stats
----
-<br/>
 
+---
+
+<br/>
 
 <div align="center">
+
 <!-- ─── Profile Details (full width) ─────────────────────────────────────── -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupu-techu&theme=tokyonight" alt="Profile Details" width="830" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupu-techu&theme=radical" alt="Profile Details" width="830" />
+
 <br/>
+
 <!-- ─── Language Breakdown ────────────────────────────────────────────────── -->
 <table border="0" cellspacing="15" cellpadding="0">
 <tr>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=tokyonight" alt="Repositories per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=radical" alt="Repositories per Language" />
 </td>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupu-techu&theme=tokyonight" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupu-techu&theme=radical" alt="Most Commit Language" />
 </td>
 </tr>
 </table>
+
 <br/>
-<!-- ─── Stats + Streak (grade removed via hide_rank=true) ────────────────── -->
+
+<!-- ─── Stats + Streak ────────────────────────────────────────────────────── -->
 <table border="0" cellspacing="15" cellpadding="0">
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" />
 </td>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupu-techu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupu-techu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
+
 <br/>
 
 <p align="center">
@@ -222,6 +229,10 @@ AI-powered election guide that helps voters understand elections with confidence
 </p>
 
 </div>
+
+</div>
+
+
 
 
 <div align="left">
