@@ -5,6 +5,8 @@
 
 <div align="center">
 
+<div align="left">
+  
 <h1>👋 Hi, I'm Rupsha Debnath</h1>
 
 <h3> Computer Science (AI & ML) Undergraduate</h3>
