@@ -107,19 +107,19 @@ ML-powered cloud monitoring platform that detects infrastructure anomalies, anal
 </td>
 <td align="center" width="50%" valign="top">
 
-<img src="https://via.placeholder.com/400x200/161b22/58a6ff?text=Project+Banner" width="100%" alt="Project 2 Banner" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/bce17543-5782-43a8-b32c-48f71c205561" />
 
-**[Project Title 2]**
 
-[One line description of what this project does.]
+**🛡️ AegisNexus-AI**
 
-<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
-<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform built for modern agentic systems, LLM security workflows, and cyber-defense simulations.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;<img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 18" />&nbsp;<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />&nbsp;<img src="https://img.shields.io/badge/Gemini-F9AB00?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupu-techu/Aegisnexus-AI)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://aegisnexus-ai-foqkxqvlxjh4isaxvi4msj.streamlit.app/)
 
 </td>
 </tr>
