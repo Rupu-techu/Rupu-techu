@@ -155,8 +155,9 @@ AI-powered election guide that helps voters understand elections with confidence
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupu-techu/ELECTO_interactive-election-assistant)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://electo-interactive-election-assista.vercel.app)
-
+<br/><br/>
 </td>
+
 </tr>
 </table>
 
