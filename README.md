@@ -93,7 +93,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 <img width="1918" height="1078" alt="Screenshot 2026-06-24 121917" src="https://github.com/user-attachments/assets/ab3207c8-6b58-4b62-96a4-7952ff9d3e96" />
 
 
-** 🌩️ Cloud Anomaly Detection System **
+**🌩️ Cloud Anomaly Detection System**
 
 ML-powered cloud monitoring platform that detects infrastructure anomalies, analyzes system health metrics, and generates intelligent alerts for proactive incident response.
 
