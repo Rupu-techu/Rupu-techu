@@ -96,6 +96,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 **🌩️ Cloud Anomaly Detection System**
 
 ML-powered cloud monitoring platform that detects infrastructure anomalies, analyzes system health metrics, and generates intelligent alerts for proactive incident response.
+&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
@@ -117,6 +118,7 @@ ML-powered cloud monitoring platform that detects infrastructure anomalies, anal
 **🛡️ AegisNexus-AI**
 
 AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform built for modern agentic systems, LLM security workflows, and cyber-defense simulations.
+&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;<img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 18" />&nbsp;<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />&nbsp;<img src="https://img.shields.io/badge/Gemini-F9AB00?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
 
@@ -139,6 +141,7 @@ AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform bui
 **🩺 Onco-AI: Cancer Detection & Medical Insight System**
 
 Onco-AI is a Machine Learning based system trained to detect early stage cancer. Currently implemented for breast cancer, with plans to explore other cancer types in future enhancements.
+&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />&nbsp;<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 
@@ -159,6 +162,7 @@ Onco-AI is a Machine Learning based system trained to detect early stage cancer.
 **🗳️ Electo : AI Election Assistant**
 
 AI-powered election guide that helps voters understand elections with confidence through smart civic assistance and interactive chat Bot.
+&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />&nbsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />&nbsp;<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 
