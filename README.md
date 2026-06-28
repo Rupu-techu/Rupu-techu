@@ -47,8 +47,15 @@ Building intelligent systems, exploring data, and continuously learning through 
 ### 🔭 Currently Exploring
 
 ---
-
-<img src="https://img.shields.io/badge/🧠-Machine%20Learning-1a1a2e?style=for-the-badge" alt="Machine Learning" />&nbsp;<img src="https://img.shields.io/badge/📊-Model%20Evaluation-1a1a2e?style=for-the-badge" alt="Model Evaluation" />&nbsp;<img src="https://img.shields.io/badge/🛠️-Feature%20Engineering-1a1a2e?style=for-the-badge" alt="Feature Engineering" />&nbsp;<img src="https://img.shields.io/badge/🚀-Deployment-1a1a2e?style=for-the-badge" alt="Deployment" />&nbsp;<img src="https://img.shields.io/badge/🤖-Deep%20Learning-1a1a2e?style=for-the-badge" alt="Deep Learning" />&nbsp;<img src="https://img.shields.io/badge/💬-Natural%20Language%20Processing-1a1a2e?style=for-the-badge" alt="Natural Language Processing" />&nbsp;<img src="https://img.shields.io/badge/👁️-Computer%20Vision-1a1a2e?style=for-the-badge" alt="Computer Vision" />&nbsp;<img src="https://img.shields.io/badge/⚙️-MLOps-1a1a2e?style=for-the-badge" alt="MLOps" />&nbsp;<img src="https://img.shields.io/badge/🌐-Frontend%20Development-1a1a2e?style=for-the-badge" alt="Frontend Development" />
+<img src="https://img.shields.io/badge/Machine%20Learning-F7E7F5?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=B784F7" alt="Machine Learning" />&nbsp;
+<img src="https://img.shields.io/badge/Model%20Evaluation-F7E7F5?style=for-the-badge&logo=python&logoColor=white&labelColor=B784F7" alt="Model Evaluation" />&nbsp;
+<img src="https://img.shields.io/badge/Feature%20Engineering-F7E7F5?style=for-the-badge&logo=pandas&logoColor=white&labelColor=B784F7" alt="Feature Engineering" />&nbsp;
+<img src="https://img.shields.io/badge/Deployment-F7E7F5?style=for-the-badge&logo=docker&logoColor=white&labelColor=B784F7" alt="Deployment" />&nbsp;
+<img src="https://img.shields.io/badge/Deep%20Learning-F7E7F5?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=B784F7" alt="Deep Learning" />&nbsp;
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-F7E7F5?style=for-the-badge&logo=spacy&logoColor=white&labelColor=B784F7" alt="Natural Language Processing" />&nbsp;
+<img src="https://img.shields.io/badge/Computer%20Vision-F7E7F5?style=for-the-badge&logo=opencv&logoColor=white&labelColor=B784F7" alt="Computer Vision" />&nbsp;
+<img src="https://img.shields.io/badge/MLOps-F7E7F5?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=B784F7" alt="MLOps" />&nbsp;
+<img src="https://img.shields.io/badge/Frontend%20Development-F7E7F5?style=for-the-badge&logo=react&logoColor=white&labelColor=B784F7" alt="Frontend Development" />
 
 </div>
 
