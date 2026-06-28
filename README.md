@@ -218,11 +218,11 @@ AI-powered election guide that helps voters understand elections with confidence
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ede9fe?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7c3aed)](https://www.linkedin.com/in/rupsha-debnath-056739317)
-[![GitHub](https://img.shields.io/badge/GitHub-ede9fe?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed)](https://github.com/Rupu-techu)
-[![Codolio](https://img.shields.io/badge/Codolio-ede9fe?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAxN2wtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white&labelColor=7c3aed)](https://codolio.com/profile/rupu_techu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ede9fe?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=7c3aed)](https://leetcode.com/u/rupu-techu/)
-[![Email](https://img.shields.io/badge/Email-ede9fe?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7c3aed)](mailto:debi.rup@gmail.com)
+[![🔗 LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-fce7f3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7c3aed)](https://www.linkedin.com/in/rupsha-debnath-056739317)
+[![GitHub](https://img.shields.io/badge/GitHub-fce7f3?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed)](https://github.com/Rupu-techu)
+[![Codolio](https://img.shields.io/badge/Codolio-fce7f3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAxN2wtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white&labelColor=7c3aed)](https://codolio.com/profile/rupu_techu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-fce7f3?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=7c3aed)](https://leetcode.com/u/rupu-techu/)
+[![Email](https://img.shields.io/badge/Email-fce7f3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7c3aed)](mailto:debi.rup@gmail.com)
 </div>
 
 </div>
