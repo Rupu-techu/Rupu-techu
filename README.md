@@ -92,7 +92,9 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 <img width="1918" height="1078" alt="Screenshot 2026-06-24 121917" src="https://github.com/user-attachments/assets/ab3207c8-6b58-4b62-96a4-7952ff9d3e96" />
 
+
 **🌩️ Cloud Anomaly Detection System**
+
 
 ML-powered cloud monitoring platform that detects infrastructure anomalies, analyzes system health metrics, and generates intelligent alerts for proactive incident response.
 
@@ -110,7 +112,9 @@ ML-powered cloud monitoring platform that detects infrastructure anomalies, anal
 
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/bce17543-5782-43a8-b32c-48f71c205561" />
 
+
 **🛡️ AegisNexus-AI**
+
 
 AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform built for modern agentic systems, LLM security workflows, and cyber-defense simulations.
 
@@ -130,7 +134,9 @@ AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform bui
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8055e45e-1c3c-4089-b10e-b2b93a8ccf88" />
 
+
 **🩺 Onco-AI: Cancer Detection & Medical Insight System**
+
 
 Onco-AI is a Machine Learning based system trained to detect early stage cancer. Currently implemented for breast cancer, with plans to explore other cancer types in future enhancements.
 
@@ -148,7 +154,9 @@ Onco-AI is a Machine Learning based system trained to detect early stage cancer.
 
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/288f0f45-2d63-4e87-bb6f-967f5433fa89" />
 
+
 **🗳️ Electo : AI Election Assistant**
+
 
 AI-powered election guide that helps voters understand elections with confidence through smart civic assistance and interactive chat Bot.
 
