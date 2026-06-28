@@ -28,7 +28,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 <div align="left">
 
-## About Me
+### 👩‍💻 About Me
 
 
 
@@ -42,7 +42,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 <br/>
 🏗️ Believe in learning by building
 
-### Currently Exploring
+### 🔭 Currently Exploring
 
 ---
 
@@ -77,7 +77,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 <div align="left">
   
-### Featured Projects
+### 🗂️ Featured Projects
 
 ---
 
@@ -164,7 +164,10 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 </div>
 
-### GitHub Stats
+
+<div align="left">
+
+### 📊 GitHub Stats
 ---
 <br/>
 
@@ -202,13 +205,13 @@ Building intelligent systems, exploring data, and continuously learning through 
   <img src="./assets/commit_rhythm_waveform_preview.svg" width="900">
 </p>
 
+</div>
 
 
-
-
+<div align="left">
 
  
-## Connect With Me
+### 🤝 Connect With Me
 
 <div align="center">
 
