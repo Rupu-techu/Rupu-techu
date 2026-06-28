@@ -217,6 +217,7 @@ AI-powered election guide that helps voters understand elections with confidence
 ---
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ede9fe?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rupsha-debnath-056739317)
 [![GitHub](https://img.shields.io/badge/GitHub-ede9fe?style=for-the-badge&logo=github&logoColor=1e1e2e)](https://github.com/Rupu-techu)
 [![Codolio](https://img.shields.io/badge/Codolio-ede9fe?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzZDNjNGRiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6TTEwIDE3bC01LTUgMS40MS0xLjQxTDEwIDE0LjE3bDcuNTktNy41OUwxOSA4bC05IDl6Ii8+PC9zdmc+&logoColor=6C63FF)](https://codolio.com/profile/rupu_techu)
