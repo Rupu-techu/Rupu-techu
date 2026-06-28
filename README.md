@@ -237,21 +237,23 @@ AI-powered election guide that helps voters understand elections with confidence
 
 <div align="left">
 
- 
 ### 🤝 Connect With Me
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7E7F5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://www.linkedin.com/in/rupsha-debnath-056739317)
-[![GitHub](https://img.shields.io/badge/GitHub-F7E7F5?style=for-the-badge&logo=github&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://github.com/Rupu-techu)
-[![Codolio](https://img.shields.io/badge/Codolio-F7E7F5?style=for-the-badge&color=B784F7&labelColor=B784F7)](https://codolio.com/profile/rupu_techu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F7E7F5?style=for-the-badge&logo=leetcode&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://leetcode.com/u/rupu-techu/)
-[![Email](https://img.shields.io/badge/Email-F7E7F5?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](mailto:debi.rup@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7E7F5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=B784F7)](https://www.linkedin.com/in/rupsha-debnath-056739317)
+
+[![GitHub](https://img.shields.io/badge/GitHub-F7E7F5?style=for-the-badge&logo=github&logoColor=white&labelColor=B784F7)](https://github.com/Rupu-techu)
+
+[![Codolio](https://img.shields.io/badge/Codolio-F7E7F5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAxN2wtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white&labelColor=B784F7)](https://codolio.com/profile/rupu_techu)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-F7E7F5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=B784F7)](https://leetcode.com/u/rupu-techu/)
+
+[![Email](https://img.shields.io/badge/Email-F7E7F5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B784F7)](mailto:debi.rup@gmail.com)
 
 </div>
-
 <div align="center">
 <br/>
 
