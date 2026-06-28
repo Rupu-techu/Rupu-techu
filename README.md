@@ -32,7 +32,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 ### 👩‍💻 About Me
 
-
+---
 
 🤖 AI & Machine Learning Enthusiast
 <br/>
