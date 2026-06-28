@@ -79,6 +79,8 @@ Building intelligent systems, exploring data, and continuously learning through 
   
 ### Featured Projects
 
+---
+
 
 <div align="center">
 
