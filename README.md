@@ -100,8 +100,8 @@ ML-powered cloud monitoring platform that detects infrastructure anomalies, anal
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6e7681?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/soumi-saha12/cloud_anomaly_detection_system)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-009688?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d4a45)](https://cloud-anomaly-detection-system.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/soumi-saha12/cloud_anomaly_detection_system)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-009688?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d4a45)](https://cloud-anomaly-detection-system.vercel.app)
 
 <br/><br/>
 
@@ -118,8 +118,8 @@ AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform bui
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6e7681?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/Rupu-techu/Aegisnexus-AI)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-009688?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d4a45)](https://aegisnexus-ai-foqkxqvlxjh4isaxvi4msj.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/Rupu-techu/Aegisnexus-AI)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-009688?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d4a45)](https://aegisnexus-ai-foqkxqvlxjh4isaxvi4msj.streamlit.app/)
 
 <br/><br/>
 
@@ -138,8 +138,8 @@ Onco-AI is a Machine Learning based system trained to detect early stage cancer.
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6e7681?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/Rupu-techu/OncoAI-Early-stage-Cancer-Detector)
-[![Video Demo](https://img.shields.io/badge/Video%20Demo-Watch%20Now-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=1a3a6e)](https://github.com/user-attachments/assets/6c8a80f0-b247-4d51-a2f1-678d7ad9b161)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/Rupu-techu/OncoAI-Early-stage-Cancer-Detector)
+[![Video Demo](https://img.shields.io/badge/Video%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=1a3a6e)](https://github.com/user-attachments/assets/6c8a80f0-b247-4d51-a2f1-678d7ad9b161)
 
 <br/><br/>
 
@@ -156,8 +156,8 @@ AI-powered election guide that helps voters understand elections with confidence
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6e7681?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/Rupu-techu/ELECTO_interactive-election-assistant)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-009688?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d4a45)](https://electo-interactive-election-assista.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/Rupu-techu/ELECTO_interactive-election-assistant)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-009688?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d4a45)](https://electo-interactive-election-assista.vercel.app)
 
 <br/><br/>
 
