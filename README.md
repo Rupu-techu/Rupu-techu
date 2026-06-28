@@ -90,7 +90,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 <tr>
 <td align="center" width="50%" valign="top">
 
-<img src="https://via.placeholder.com/400x200/161b22/58a6ff?text=Project+Banner" width="100%" alt="Project 1 Banner" />
+<img src="file:///C:/Users/debir/OneDrive/Pictures/Saved%20Pictures/Screenshots/Screenshot%202026-06-24%20121917.png" width="100%" alt="Project 1 Banner" />
 
 **cloud anomaly detection system**
 
