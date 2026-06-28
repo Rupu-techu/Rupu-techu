@@ -29,7 +29,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 ## About Me
 
 ---
-<div align="center">
+<div align="left">
 
 🤖 AI & Machine Learning Enthusiast &nbsp;•&nbsp; 🔬 Passionate about building practical AI solutions
 <br/>
@@ -43,6 +43,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 ---
 <br/>
+<div align="left">
 
 <img src="https://img.shields.io/badge/🧠-Machine%20Learning-1a1a2e?style=for-the-badge" alt="Machine Learning" />
 <img src="https://img.shields.io/badge/📊-Model%20Evaluation-1a1a2e?style=for-the-badge" alt="Model Evaluation" />
@@ -54,18 +55,16 @@ Building intelligent systems, exploring data, and continuously learning through 
 <img src="https://img.shields.io/badge/⚙️-MLOps-1a1a2e?style=for-the-badge" alt="MLOps" />
 <img src="https://img.shields.io/badge/🌐-Frontend%20Development-1a1a2e?style=for-the-badge" alt="Frontend Development" />
 
-<br/>
-<br/>
-
 </div>
+<br/>
 
 ### Tech Stack
 
 ---
 <br/>
+<div align="left">
 
 **Languages**
-
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -75,8 +74,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-<br/>
-<br/>
+<br/><br/>
 
 **AI / ML Libraries**
 
@@ -88,8 +86,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge" alt="NLTK" />
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
 
-<br/>
-<br/>
+<br/><br/>
 
 **Techniques & Concepts**
 
@@ -99,8 +96,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 <img src="https://img.shields.io/badge/Isolation%20Forest-1a1a2e?style=for-the-badge" alt="Isolation Forest" />
 <img src="https://img.shields.io/badge/Local%20Outlier%20Factor%20(LOF)-1a1a2e?style=for-the-badge" alt="Local Outlier Factor (LOF)" />
 
-<br/>
-<br/>
+<br/><br/>
 
 **Backend**
 
@@ -108,16 +104,14 @@ Building intelligent systems, exploring data, and continuously learning through 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/REST%20APIs-1a1a2e?style=for-the-badge" alt="REST APIs" />
 
-<br/>
-<br/>
+<br/><br/>
 
 **Database**
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
-<br/>
-<br/>
+<br/><br/>
 
 **Deployment**
 
@@ -126,12 +120,8 @@ Building intelligent systems, exploring data, and continuously learning through 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 
-<br/>
-<br/>
-
 </div>
-
-<div align="center">
+<br/>
 
 ## Featured Projects
 
