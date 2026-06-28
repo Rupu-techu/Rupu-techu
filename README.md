@@ -90,17 +90,17 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 <img src="https://via.placeholder.com/400x200/161b22/58a6ff?text=Project+Banner" width="100%" alt="Project 1 Banner" />
 
-**[Project Title 1]**
+**cloud anomaly detection system**
 
-[One line description of what this project does.]
+ML-powered cloud monitoring platform that detects infrastructure anomalies, analyzes system health metrics, and generates intelligent alerts for proactive incident response.
 
 <img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
 <img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumi-saha12/cloud_anomaly_detection_system)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://cloud-anomaly-detection-system.vercel.app)
 
 </td>
 <td align="center" width="50%" valign="top">
@@ -212,6 +212,8 @@ Building intelligent systems, exploring data, and continuously learning through 
 
  
 ### 🤝 Connect With Me
+
+---
 
 <div align="center">
 
