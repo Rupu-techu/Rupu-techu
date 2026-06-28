@@ -143,22 +143,22 @@ AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform bui
 </td>
 <td align="center" width="50%" valign="top">
 
-<img src="https://via.placeholder.com/400x200/161b22/58a6ff?text=Project+Banner" width="100%" alt="Project 4 Banner" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/288f0f45-2d63-4e87-bb6f-967f5433fa89" />
 
-**[Project Title 4]**
+
+**<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />Electo : AI Election Assistant**
 
 [One line description of what this project does.]
 
-<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
-<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />&nbsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />&nbsp;<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 
 <br/><br/>
 
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupu-techu/ELECTO_interactive-election-assistant)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://electo-interactive-election-assista.vercel.app)
 
 </td>
 </tr>
