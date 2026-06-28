@@ -219,21 +219,23 @@ width="900" />
 <br/><br/>
 
 <!-- ─── Language Breakdown ────────────────────────────────────────────────── -->
-<table border="0" cellspacing="15" cellpadding="0" width="100%">
+<table border="0" cellspacing="15" cellpadding="0">
 <tr>
-<td align="center" width="50%">
+
+<td align="center">
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=radical"
-alt="Repositories per Language"
-width="100%" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupu-techu&layout=compact&theme=radical&hide_border=true&langs_count=8"
+alt="Top Languages"
+width="420" />
 </td>
 
-<td align="center" width="50%">
+<td align="center">
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupu-techu&theme=radical"
-alt="Most Commit Language"
-width="100%" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupu-techu&layout=donut&theme=radical&hide_border=true"
+alt="Languages Distribution"
+width="420" />
 </td>
+
 </tr>
 </table>
 
@@ -242,15 +244,19 @@ width="100%" />
 <!-- ─── Stats + Streak ────────────────────────────────────────────────────── -->
 <table border="0" cellspacing="15" cellpadding="0">
 <tr>
+
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true"
+<img
+src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true"
 alt="GitHub Stats" />
 </td>
 
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupu-techu&theme=radical&hide_border=true"
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Rupu-techu&theme=radical&hide_border=true"
 alt="GitHub Streak" />
 </td>
+
 </tr>
 </table>
 
