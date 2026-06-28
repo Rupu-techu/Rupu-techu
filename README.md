@@ -125,20 +125,19 @@ AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform bui
 </tr>
 <tr>
 <td align="center" width="50%" valign="top">
+  
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8055e45e-1c3c-4089-b10e-b2b93a8ccf88" />
 
-<img src="https://via.placeholder.com/400x200/161b22/58a6ff?text=Project+Banner" width="100%" alt="Project 3 Banner" />
+**🩺 Onco-AI: Cancer Detection & Medical Insight System**
 
-**[Project Title 3]**
+Onco-AI ia a Machine learning(ML) based system that is trained to detect early stage of cancer.Curently implemented to breast cancer ,the system will be exploring other cancer type in future enhancement.
 
-[One line description of what this project does.]
-
-<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
-<img src="https://img.shields.io/badge/Tech-1a1a2e?style=flat-square" alt="Tech Badge" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />&nbsp;<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupu-techu/OncoAI-Early-stage-Cancer-Detector)
+[![Video Demo](https://img.shields.io/badge/Video%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/user-attachments/assets/6c8a80f0-b247-4d51-a2f1-678d7ad9b161)
 
 </td>
 <td align="center" width="50%" valign="top">
