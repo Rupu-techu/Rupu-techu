@@ -243,7 +243,7 @@ AI-powered election guide that helps voters understand elections with confidence
 
 <div align="center">
 
-[![🔗 LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-F7E7F5?style=for-the-badge&labelColor=B784F7)](https://www.linkedin.com/in/rupsha-debnath-056739317)&nbsp;
+[![🌐 LinkedIn](https://img.shields.io/badge/🌐_LinkedIn-F7E7F5?style=for-the-badge&labelColor=B784F7)](https://www.linkedin.com/in/rupsha-debnath-056739317)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-F7E7F5?style=for-the-badge&logo=github&logoColor=white&labelColor=B784F7)](https://github.com/Rupu-techu)&nbsp;
 [![Codolio](https://img.shields.io/badge/Codolio-F7E7F5?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=B784F7)](https://codolio.com/profile/rupu_techu)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-F7E7F5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=B784F7)](https://leetcode.com/u/rupu-techu/)&nbsp;
