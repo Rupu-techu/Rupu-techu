@@ -1,12 +1,15 @@
 <p align="center">
   <img src="./assets/banner.svg" alt="Banner" width="100%">
 </p>
+<div align="center">
+
+<div align="center">
 
 <div align="left">
-
+  
 <h1>👋 Hi, I'm Rupsha Debnath</h1>
 
-<h3>Computer Science (AI & ML) Undergraduate</h3>
+<h3> Computer Science (AI & ML) Undergraduate</h3>
 
 <p>
 Building intelligent systems, exploring data, and continuously learning through projects.
@@ -14,14 +17,18 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍-Kolkata%2C%20India-1e1e2e?style=flat-square&logoColor=e2d9f3" alt="Location: Kolkata, India" />
-<img src="https://img.shields.io/badge/🎓-B.Tech%20CSE%20(AI%20%26%20ML)-1e1e2e?style=flat-square&logoColor=e2d9f3" alt="B.Tech CSE (AI & ML)" />
-<img src="https://img.shields.io/badge/🌱-Lifelong%20Learner-1e1e2e?style=flat-square&logoColor=e2d9f3" alt="Lifelong Learner" />
+<img src="https://img.shields.io/badge/📍-Kolkata%2C%20India-1a1a2e?style=flat-square" alt="Location: Kolkata, India" />
+<img src="https://img.shields.io/badge/🎓-B.Tech%20CSE%20(AI%20%26%20ML)-1a1a2e?style=flat-square" alt="B.Tech CSE (AI & ML)" />
+<img src="https://img.shields.io/badge/🌱-Lifelong%20Learner-1a1a2e?style=flat-square" alt="Lifelong Learner" />
 
 <br/>
 <br/>
 
----
+</div>
+
+
+
+<div align="left">
 
 ### 👩‍💻 About Me
 
@@ -41,7 +48,11 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 ---
 
-<img src="https://img.shields.io/badge/🧠%20Machine%20Learning-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="Machine Learning" />&nbsp;<img src="https://img.shields.io/badge/📊%20Model%20Evaluation-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="Model Evaluation" />&nbsp;<img src="https://img.shields.io/badge/🛠️%20Feature%20Engineering-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="Feature Engineering" />&nbsp;<img src="https://img.shields.io/badge/🚀%20Deployment-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="Deployment" />&nbsp;<img src="https://img.shields.io/badge/🤖%20Deep%20Learning-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="Deep Learning" />&nbsp;<img src="https://img.shields.io/badge/💬%20NLP-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="NLP" />&nbsp;<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="Computer Vision" />&nbsp;<img src="https://img.shields.io/badge/⚙️%20MLOps-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="MLOps" />&nbsp;<img src="https://img.shields.io/badge/🌐%20Frontend%20Dev-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="Frontend Development" />
+<img src="https://img.shields.io/badge/🧠-Machine%20Learning-1a1a2e?style=for-the-badge" alt="Machine Learning" />&nbsp;<img src="https://img.shields.io/badge/📊-Model%20Evaluation-1a1a2e?style=for-the-badge" alt="Model Evaluation" />&nbsp;<img src="https://img.shields.io/badge/🛠️-Feature%20Engineering-1a1a2e?style=for-the-badge" alt="Feature Engineering" />&nbsp;<img src="https://img.shields.io/badge/🚀-Deployment-1a1a2e?style=for-the-badge" alt="Deployment" />&nbsp;<img src="https://img.shields.io/badge/🤖-Deep%20Learning-1a1a2e?style=for-the-badge" alt="Deep Learning" />&nbsp;<img src="https://img.shields.io/badge/💬-Natural%20Language%20Processing-1a1a2e?style=for-the-badge" alt="Natural Language Processing" />&nbsp;<img src="https://img.shields.io/badge/👁️-Computer%20Vision-1a1a2e?style=for-the-badge" alt="Computer Vision" />&nbsp;<img src="https://img.shields.io/badge/⚙️-MLOps-1a1a2e?style=for-the-badge" alt="MLOps" />&nbsp;<img src="https://img.shields.io/badge/🌐-Frontend%20Development-1a1a2e?style=for-the-badge" alt="Frontend Development" />
+
+</div>
+
+<div align="left">
 
 ### 💻 Tech Stack
 
@@ -49,22 +60,26 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 #### 🐍 Languages
 
-<img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />&nbsp;<img src="https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=007396" alt="Java" />&nbsp;<img src="https://img.shields.io/badge/C-1e1e2e?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />&nbsp;<img src="https://img.shields.io/badge/SQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL" />&nbsp;<img src="https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />&nbsp;<img src="https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
 #### 🤖 AI / ML Libraries & Techniques
 
-<img src="https://img.shields.io/badge/Pandas-1e1e2e?style=for-the-badge&logo=pandas&logoColor=e2d9f3" alt="Pandas" />&nbsp;<img src="https://img.shields.io/badge/NumPy-1e1e2e?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-1e1e2e?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/TensorFlow-1e1e2e?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />&nbsp;<img src="https://img.shields.io/badge/Matplotlib-1e1e2e?style=for-the-badge&logo=plotly&logoColor=e2d9f3" alt="Matplotlib" />&nbsp;<img src="https://img.shields.io/badge/NLTK-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="NLTK" />&nbsp;<img src="https://img.shields.io/badge/spaCy-1e1e2e?style=for-the-badge&logo=spacy&logoColor=09A3D5" alt="spaCy" />&nbsp;<img src="https://img.shields.io/badge/Machine%20Learning-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="Machine Learning" />&nbsp;<img src="https://img.shields.io/badge/Feature%20Engineering-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="Feature Engineering" />&nbsp;<img src="https://img.shields.io/badge/Model%20Evaluation-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="Model Evaluation" />&nbsp;<img src="https://img.shields.io/badge/Isolation%20Forest-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="Isolation Forest" />&nbsp;<img src="https://img.shields.io/badge/Local%20Outlier%20Factor-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="Local Outlier Factor" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />&nbsp;<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />&nbsp;<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge" alt="NLTK" />&nbsp;<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />&nbsp;<img src="https://img.shields.io/badge/Machine%20Learning-1a1a2e?style=for-the-badge" alt="Machine Learning" />&nbsp;<img src="https://img.shields.io/badge/Feature%20Engineering-1a1a2e?style=for-the-badge" alt="Feature Engineering" />&nbsp;<img src="https://img.shields.io/badge/Model%20Evaluation-1a1a2e?style=for-the-badge" alt="Model Evaluation" />&nbsp;<img src="https://img.shields.io/badge/Isolation%20Forest-1a1a2e?style=for-the-badge" alt="Isolation Forest" />&nbsp;<img src="https://img.shields.io/badge/Local%20Outlier%20Factor-1a1a2e?style=for-the-badge" alt="Local Outlier Factor" />
 
 #### 🌐 Development
 
-<img src="https://img.shields.io/badge/Flask-1e1e2e?style=for-the-badge&logo=flask&logoColor=e2d9f3" alt="Flask" />&nbsp;<img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />&nbsp;<img src="https://img.shields.io/badge/REST%20APIs-1e1e2e?style=for-the-badge&logoColor=e2d9f3" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;<img src="https://img.shields.io/badge/REST%20APIs-1a1a2e?style=for-the-badge" alt="REST APIs" />
 
 #### 🚀 Deployment & Infrastructure
 
-<img src="https://img.shields.io/badge/Streamlit-1e1e2e?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />&nbsp;<img src="https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />&nbsp;<img src="https://img.shields.io/badge/Vercel-1e1e2e?style=for-the-badge&logo=vercel&logoColor=e2d9f3" alt="Vercel" />&nbsp;<img src="https://img.shields.io/badge/Render-1e1e2e?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render" />&nbsp;<img src="https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />&nbsp;<img src="https://img.shields.io/badge/SQLite-1e1e2e?style=for-the-badge&logo=sqlite&logoColor=e2d9f3" alt="SQLite" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />&nbsp;<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
----
+</div>
 
+
+<div align="left">
+
+  
 ### 🗂️ Featured Projects
 
 ---
@@ -83,13 +98,13 @@ Building intelligent systems, exploring data, and continuously learning through 
 ML-powered cloud monitoring platform that detects infrastructure anomalies, analyzes system health metrics, and generates intelligent alerts for proactive incident response.
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-1e1e2e?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/Flask-1e1e2e?style=flat-square&logo=flask&logoColor=e2d9f3" alt="Flask" />&nbsp;<img src="https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-fce7f3?style=for-the-badge&logo=github&logoColor=white&labelColor=9d174d)](https://github.com/soumi-saha12/cloud_anomaly_detection_system)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/soumi-saha12/cloud_anomaly_detection_system)
 &nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-fce7f3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=9d174d)](https://cloud-anomaly-detection-system.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-009688?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d4a45)](https://cloud-anomaly-detection-system.vercel.app)
 
 <br/><br/>
 
@@ -97,6 +112,7 @@ ML-powered cloud monitoring platform that detects infrastructure anomalies, anal
 <td align="center" width="50%" valign="top">
 
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/bce17543-5782-43a8-b32c-48f71c205561" />
+
 &nbsp;&nbsp;
 
 **🛡️ AegisNexus-AI**
@@ -104,13 +120,13 @@ ML-powered cloud monitoring platform that detects infrastructure anomalies, anal
 AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform built for modern agentic systems, LLM security workflows, and cyber-defense simulations.
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />&nbsp;<img src="https://img.shields.io/badge/React%2018-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB" alt="React 18" />&nbsp;<img src="https://img.shields.io/badge/TailwindCSS-1e1e2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS" />&nbsp;<img src="https://img.shields.io/badge/SQLite-1e1e2e?style=flat-square&logo=sqlite&logoColor=e2d9f3" alt="SQLite" />&nbsp;<img src="https://img.shields.io/badge/Gemini-1e1e2e?style=flat-square&logo=google&logoColor=F9AB00" alt="Gemini" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;<img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 18" />&nbsp;<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />&nbsp;<img src="https://img.shields.io/badge/Gemini-F9AB00?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-fce7f3?style=for-the-badge&logo=github&logoColor=white&labelColor=9d174d)](https://github.com/Rupu-techu/Aegisnexus-AI)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/Rupu-techu/Aegisnexus-AI)
 &nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-fce7f3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=9d174d)](https://aegisnexus-ai-foqkxqvlxjh4isaxvi4msj.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-009688?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d4a45)](https://aegisnexus-ai-foqkxqvlxjh4isaxvi4msj.streamlit.app/)
 
 <br/><br/>
 
@@ -127,13 +143,13 @@ AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform bui
 Onco-AI is a Machine Learning based system trained to detect early stage cancer. Currently implemented for breast cancer, with plans to explore other cancer types in future enhancements.
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Flask-1e1e2e?style=flat-square&logo=flask&logoColor=e2d9f3" alt="Flask" />&nbsp;<img src="https://img.shields.io/badge/PyTorch-1e1e2e?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-1e1e2e?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/OpenCV-1e1e2e?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />&nbsp;<img src="https://img.shields.io/badge/NumPy-1e1e2e?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />&nbsp;<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-fce7f3?style=for-the-badge&logo=github&logoColor=white&labelColor=9d174d)](https://github.com/Rupu-techu/OncoAI-Early-stage-Cancer-Detector)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/Rupu-techu/OncoAI-Early-stage-Cancer-Detector)
 &nbsp;&nbsp;
-[![Video Demo](https://img.shields.io/badge/Video%20Demo-fce7f3?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=9d174d)](https://github.com/user-attachments/assets/6c8a80f0-b247-4d51-a2f1-678d7ad9b161)
+[![Video Demo](https://img.shields.io/badge/Video%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=1a3a6e)](https://github.com/user-attachments/assets/6c8a80f0-b247-4d51-a2f1-678d7ad9b161)
 
 <br/><br/>
 
@@ -145,4 +161,101 @@ Onco-AI is a Machine Learning based system trained to detect early stage cancer.
 
 **🗳️ Electo : AI Election Assistant**
 
-AI-powered election guide that helps voters understand elections
+AI-powered election guide that helps voters understand elections with confidence through smart civic assistance and interactive chat Bot.
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />&nbsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />&nbsp;<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/Rupu-techu/ELECTO_interactive-election-assistant)
+&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-009688?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d4a45)](https://electo-interactive-election-assista.vercel.app)
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+<div align="left">
+
+### 📊 GitHub Stats
+
+---
+
+<br/>
+
+<div align="center">
+
+<!-- ─── Profile Details (full width) ─────────────────────────────────────── -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupu-techu&theme=radical" alt="Profile Details" width="830" />
+
+<br/>
+
+<!-- ─── Language Breakdown ────────────────────────────────────────────────── -->
+<table border="0" cellspacing="15" cellpadding="0">
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=radical" alt="Repositories per Language" />
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupu-techu&theme=radical" alt="Most Commit Language" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─── Stats + Streak ────────────────────────────────────────────────────── -->
+<table border="0" cellspacing="15" cellpadding="0">
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" />
+</td>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupu-techu&theme=radical&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/commit_rhythm_waveform_preview.svg" width="900">
+</p>
+
+</div>
+
+</div>
+
+
+
+
+<div align="left">
+
+ 
+### 🤝 Connect With Me
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupsha-debnath-056739317)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupu-techu)
+[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAxN2wtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white)](https://codolio.com/profile/rupu_techu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rupu-techu/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debi.rup@gmail.com)
+
+</div>
+
+<div align="center">
+<br/>
+
+<sub>— Thanks for visiting my profile. —</sub>
+
+<br/>
+</div>
