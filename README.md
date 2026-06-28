@@ -216,7 +216,7 @@ AI-powered election guide that helps voters understand elections with confidence
 alt="Profile Details"
 width="900" />
 
-<br/><br/>
+<br/>
 
 <!-- ─── Language Breakdown ────────────────────────────────────────────────── -->
 <table border="0" cellspacing="15" cellpadding="0" width="100%">
