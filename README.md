@@ -103,7 +103,7 @@ ML-powered cloud monitoring platform that detects infrastructure anomalies, anal
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumi-saha12/cloud_anomaly_detection_system)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://cloud-anomaly-detection-system.vercel.app)
-
+<br/><br/>
 </td>
 <td align="center" width="50%" valign="top">
 
@@ -120,7 +120,7 @@ AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform bui
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupu-techu/Aegisnexus-AI)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://aegisnexus-ai-foqkxqvlxjh4isaxvi4msj.streamlit.app/)
-
+<br/><br/>
 </td>
 </tr>
 <tr>
@@ -138,8 +138,9 @@ Onco-AI ia a Machine learning(ML) based system that is trained to detect early s
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupu-techu/OncoAI-Early-stage-Cancer-Detector)
 [![Video Demo](https://img.shields.io/badge/Video%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/user-attachments/assets/6c8a80f0-b247-4d51-a2f1-678d7ad9b161)
-
+<br/><br/>
 </td>
+
 <td align="center" width="50%" valign="top">
 
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/288f0f45-2d63-4e87-bb6f-967f5433fa89" />
