@@ -30,7 +30,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 ## About Me
 
----
+
 
 🤖 AI & Machine Learning Enthusiast
 <br/>
@@ -76,6 +76,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 
 <div align="left">
+  
 ### Featured Projects
 
 
