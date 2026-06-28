@@ -59,6 +59,7 @@ Building intelligent systems, exploring data, and continuously learning through 
 </div>
 <br/>
 
+</div>
 ### 💻 Tech Stack
 
 ---
