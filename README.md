@@ -101,7 +101,10 @@ Building intelligent systems, exploring data, and continuously learning through 
 
 **🌩️ Cloud Anomaly Detection System**
 
-ML-powered cloud monitoring platform that detects infrastructure anomalies, analyzes system health metrics, and generates intelligent alerts for proactive incident response.
+ML-powered cloud monitoring platform that detects infrastructure
+anomalies, analyzes system health metrics, and delivers intelligent
+alerts for proactive monitoring and rapid incident
+response.
 &nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/Python-F7E7F5?style=flat-square&logo=python&logoColor=white&labelColor=B784F7" alt="Python" />&nbsp;
@@ -126,7 +129,10 @@ ML-powered cloud monitoring platform that detects infrastructure anomalies, anal
 
 **🛡️ AegisNexus-AI**
 
-AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform built for modern agentic systems, LLM security workflows, and cyber-defense simulations.
+AI governance and autonomous threat containment platform for
+modern agentic systems, LLM security workflows, and intelligent
+cyber-defense simulation with real-time security
+analysis.
 &nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/FastAPI-F7E7F5?style=flat-square&logo=fastapi&logoColor=white&labelColor=B784F7" alt="FastAPI" />&nbsp;
@@ -151,8 +157,10 @@ AegisNexus AI is an AI Governance and Autonomous Threat Containment Platform bui
 &nbsp;&nbsp;
 
 **🩺 Onco-AI: Cancer Detection & Medical Insight System**
-
-Onco-AI is a Machine Learning based system trained to detect early stage cancer. Currently implemented for breast cancer, with plans to explore other cancer types in future enhancements.
+Machine Learning powered cancer screening platform that detects
+early-stage breast cancer, provides AI-driven medical insights,
+and is designed to support future multi-cancer
+diagnosis.
 &nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/Flask-F7E7F5?style=flat-square&logo=flask&logoColor=white&labelColor=B784F7" alt="Flask" />&nbsp;
@@ -177,7 +185,10 @@ Onco-AI is a Machine Learning based system trained to detect early stage cancer.
 
 **🗳️ Electo : AI Election Assistant**
 
-AI-powered election guide that helps voters understand elections with confidence through smart civic assistance and interactive chat Bot.
+AI-powered election assistant that helps voters understand the
+electoral process through interactive guidance, civic information,
+and conversational support for confident
+participation.
 &nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/React-F7E7F5?style=flat-square&logo=react&logoColor=white&labelColor=B784F7" alt="React" />&nbsp;
