@@ -293,6 +293,13 @@ alt="GitHub Streak" />
 [![Email](https://img.shields.io/badge/Email-F7E7F5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B784F7)](mailto:debi.rup@gmail.com)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/galaga-contribution-graph.svg">
+  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/galaga-contribution-graph.svg">
+</picture>
+
 <div align="center">
 <br/>
 
@@ -300,8 +307,4 @@ alt="GitHub Streak" />
 
 <br/>
 </div>
-## 🕹️ Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rupu-techu/Rupu-techu/output/pacman-contribution-graph.svg">
-</p>
