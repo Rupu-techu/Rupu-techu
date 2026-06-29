@@ -295,9 +295,9 @@ alt="GitHub Streak" />
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/galaga-contribution-graph.svg">
-  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/galaga-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rupu-techu/Rupu-techu/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rupu-techu/Rupu-techu/output/galaga-contribution-graph.svg">
+  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/Rupu-techu/Rupu-techu/output/galaga-contribution-graph.svg">
 </picture>
 
 <div align="center">
