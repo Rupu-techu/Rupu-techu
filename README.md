@@ -294,6 +294,9 @@ alt="GitHub Streak" />
 
 </div>
 
+<div align="left">
+  
+# 🎮 Arcade Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rupu-techu/Rupu-techu/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rupu-techu/Rupu-techu/output/galaga-contribution-graph.svg">
