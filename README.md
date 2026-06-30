@@ -227,7 +227,6 @@ participation.
   alt="Profile Details"
   width="900"
 />
-
 <br/><br/>
 
 <!-- ─── Language Breakdown ────────────────────────────────────────── -->
