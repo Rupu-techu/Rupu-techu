@@ -221,64 +221,75 @@ participation.
 
 <div align="center">
 
-<!-- ─── Profile Details (full width) ─────────────────────────────────────── -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupu-techu&theme=radical"
-alt="Profile Details"
-width="900" />
+<!-- ─── Profile Details ───────────────────────────────────────────── -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupu-techu&theme=radical"
+  alt="Profile Details"
+  width="900"
+/>
 
-<br/>
+<br/><br/>
 
-<!-- ─── Language Breakdown ────────────────────────────────────────────────── -->
-<table border="0" cellspacing="15" cellpadding="0" width="100%">
+<!-- ─── Language Breakdown ────────────────────────────────────────── -->
+<table border="0" cellspacing="15" cellpadding="0">
 <tr>
-<td align="center" width="50%">
+
+<td align="center">
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=radical"
-alt="Repositories per Language"
-width="100%" />
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=radical"
+  alt="Repositories per Language"
+/>
 </td>
 
-<td align="center" width="50%">
+<td align="center">
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupu-techu&theme=radical"
-alt="Most Commit Language"
-width="100%" />
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupu-techu&theme=radical"
+  alt="Most Commit Language"
+/>
 </td>
+
 </tr>
 </table>
 
 <br/>
 
-<!-- ─── Stats + Streak ────────────────────────────────────────────────────── -->
+<!-- ─── GitHub Stats + Streak ─────────────────────────────────────── -->
 <table border="0" cellspacing="15" cellpadding="0">
 <tr>
+
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true"
-alt="GitHub Stats" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true"
+  alt="GitHub Stats"
+/>
 </td>
 
 <td align="center">
-<img src="https://streak-stats.demolab.com?user=Rupu-techu&theme=radical&hide_border=true"
-alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=Rupu-techu&theme=radical&hide_border=true"
+  alt="GitHub Streak"
+/>
 </td>
+
 </tr>
 </table>
 
 <br/>
 
 <p align="center">
-<img src="./assets/commit_rhythm_waveform_preview.svg" width="900">
+  <img
+    src="./assets/commit_rhythm_waveform_preview.svg"
+    width="900"
+    alt="Commit Rhythm Waveform"
+  />
 </p>
 
 </div>
 
 </div>
 
-
-
-
 <div align="left">
-
+  
 ### 🤝 Connect With Me
 
 ---
