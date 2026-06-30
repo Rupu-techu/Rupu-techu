@@ -127,6 +127,7 @@ response.
 
 &nbsp;&nbsp;
 **🛡️ AegisNexus-AI**
+
 AI governance and autonomous threat containment platform for
 modern agentic systems, LLM security workflows, and intelligent
 cyber-defense simulation with real-time security
