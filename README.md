@@ -126,9 +126,7 @@ response.
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/bce17543-5782-43a8-b32c-48f71c205561" />
 
 &nbsp;&nbsp;
-
 **🛡️ AegisNexus-AI**
-
 AI governance and autonomous threat containment platform for
 modern agentic systems, LLM security workflows, and intelligent
 cyber-defense simulation with real-time security
