@@ -124,7 +124,6 @@ response.
 <td align="center" width="50%" valign="top">
 
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/bce17543-5782-43a8-b32c-48f71c205561" />
-
 &nbsp;&nbsp;
 
 **🛡️ AegisNexus-AI**
