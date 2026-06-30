@@ -258,7 +258,7 @@ alt="GitHub Stats" />
 </td>
 
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupu-techu&theme=radical&hide_border=true"
+<img src="https://streak-stats.demolab.com?user=Rupu-techu&theme=radical&hide_border=true"
 alt="GitHub Streak" />
 </td>
 </tr>
