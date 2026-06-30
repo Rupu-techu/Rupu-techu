@@ -136,8 +136,8 @@ cyber-defense simulation with real-time security analysis.
 <img src="https://img.shields.io/badge/FastAPI-F7E7F5?style=flat-square&logo=fastapi&logoColor=white&labelColor=B784F7" alt="FastAPI" />&nbsp;
 <img src="https://img.shields.io/badge/React%2018-F7E7F5?style=flat-square&logo=react&logoColor=white&labelColor=B784F7" alt="React 18" />&nbsp;
 <img src="https://img.shields.io/badge/TailwindCSS-F7E7F5?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=B784F7" alt="TailwindCSS" />&nbsp;
-<img src="https://img.shields.io/badge/SQLite-F7E7F5?style=flat-square&logo=sqlite&logoColor=white&labelColor=B784F7" alt="SQLite" />&nbsp;
-<img src="https://img.shields.io/badge/Gemini-F7E7F5?style=flat-square&logo=googlegemini&logoColor=white&labelColor=B784F7" alt="Gemini" />
+<img src="https://img.shields.io/badge/SQLite-F7E7F5?style=flat-square&logo=sqlite&logoColor=white&labelColor=B784F7" alt="SQLite" />
+
 
 <br/><br/>
 
