@@ -295,7 +295,7 @@ participation.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F7E7F5?style=for-the-badge&logo=vercel&logoColor=FFFFFF&color=B784F7&labelColor=B784F7)](https://my-portfolio-six-opal-41.vercel.app)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FDF4FA?style=for-the-badge&logo=vercel&logoColor=9C5FAF&color=FDF4FA&labelColor=DDB3F3)](https://my-portfolio-six-opal-41.vercel.app)&nbsp;
 [![🌐 LinkedIn](https://img.shields.io/badge/🌐_LinkedIn-F7E7F5?style=for-the-badge&labelColor=B784F7)](https://www.linkedin.com/in/rupsha-debnath-056739317)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-F7E7F5?style=for-the-badge&logo=github&logoColor=white&labelColor=B784F7)](https://github.com/Rupu-techu)&nbsp;
 [![Codolio](https://img.shields.io/badge/Codolio-F7E7F5?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=B784F7)](https://codolio.com/profile/rupu_techu)&nbsp;
