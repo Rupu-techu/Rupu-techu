@@ -235,8 +235,9 @@ participation.
 
 <td align="center">
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=radical"
-  alt="Repositories per Language"
+  src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true&cache_seconds=86400"
+  alt="GitHub Stats"
+  width="100%"
 />
 </td>
 
