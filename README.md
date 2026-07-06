@@ -275,8 +275,7 @@ participation.
 </tr>
 </table>
 
-</tr>
-</table>
+
 
 <br/>
 
