@@ -259,12 +259,11 @@ participation.
 <tr>
 
 <td align="center" width="50%">
-<img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true"
-width="100%">
-  alt="GitHub Stats"
-  width="100%"
-/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true"
+    alt="GitHub Stats"
+    width="100%"
+  />
 </td>
 
 <td align="center" width="50%">
