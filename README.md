@@ -256,11 +256,12 @@ participation.
 <table border="0" cellspacing="15" cellpadding="0">
 <tr>
 
-<td align="center">
-<img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true"
-  alt="GitHub Stats"
-/>
+<td align="center" width="50%">
+  <img
+    src="https://streak-stats.demolab.com?user=Rupu-techu&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="GitHub Streak"
+    width="100%"
+  />
 </td>
 
 <td align="center">
