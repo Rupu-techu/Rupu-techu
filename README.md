@@ -258,12 +258,11 @@ participation.
 
 <td align="center" width="50%">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true&v=5"
     alt="GitHub Stats"
     width="100%"
   />
 </td>
-
 <td align="center" width="50%">
   <img
     src="https://streak-stats.demolab.com?user=Rupu-techu&theme=radical&hide_border=true&cache_seconds=86400"
