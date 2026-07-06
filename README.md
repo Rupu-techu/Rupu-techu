@@ -216,7 +216,6 @@ participation.
 ### 📊 GitHub Stats
 
 ---
-
 <br/>
 
 <div align="center">
@@ -227,24 +226,26 @@ participation.
   alt="Profile Details"
   width="900"
 />
+
 <br/><br/>
 
 <!-- ─── Language Breakdown ────────────────────────────────────────── -->
-<table border="0" cellspacing="15" cellpadding="0">
+<table border="0" cellspacing="15" cellpadding="0" width="100%">
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true&cache_seconds=86400"
-  alt="GitHub Stats"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=radical"
+  alt="Repositories per Language"
   width="100%"
 />
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupu-techu&theme=radical"
   alt="Most Commit Language"
+  width="100%"
 />
 </td>
 
@@ -258,24 +259,23 @@ participation.
 <tr>
 
 <td align="center" width="50%">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true&v=5"
-    alt="GitHub Stats"
-    width="100%"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true&cache_seconds=86400"
+  alt="GitHub Stats"
+  width="100%"
+/>
 </td>
+
 <td align="center" width="50%">
-  <img
-    src="https://streak-stats.demolab.com?user=Rupu-techu&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="GitHub Streak"
-    width="100%"
-  />
+<img
+  src="https://streak-stats.demolab.com?user=Rupu-techu&theme=radical&hide_border=true&cache_seconds=86400"
+  alt="GitHub Streak"
+  width="100%"
+/>
 </td>
 
 </tr>
 </table>
-
-
 
 <br/>
 
@@ -289,7 +289,6 @@ participation.
 
 </div>
 
-</div>
 
 <div align="left">
   
