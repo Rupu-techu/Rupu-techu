@@ -266,15 +266,13 @@ participation.
 
 <td align="center" width="50%">
 <img
-  src="https://streak-stats.demolab.com?user=Rupu-techu&theme=radical&hide_border=true"
-  alt="GitHub Streak"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupu-techu&theme=radical"
+  alt="GitHub Profile Details"
 />
 </td>
 
 </tr>
 </table>
-
-<br/><br/>
 
 <!-- ─── Commit Rhythm ────────────────────────────────────────────── -->
 <p align="center">
