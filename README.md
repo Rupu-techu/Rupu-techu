@@ -216,6 +216,7 @@ participation.
 ### 📊 GitHub Stats
 
 ---
+
 <br/>
 
 <div align="center">
@@ -223,37 +224,59 @@ participation.
 <!-- ─── Profile Details ───────────────────────────────────────────── -->
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupu-techu&theme=radical"
-  alt="Profile Details"
+  alt="GitHub Profile Details"
   width="900"
 />
 
 <br/><br/>
 
-<!-- ─── GitHub Stats + Streak ─────────────────────────────────────── -->
-<table border="0" cellspacing="15" cellpadding="0" width="100%">
+<!-- ─── Language Statistics ───────────────────────────────────────── -->
+<table border="0" cellspacing="15" cellpadding="0" width="900">
 <tr>
 
 <td align="center" width="50%">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rupu-techu&show_icons=true&theme=radical&hide_border=true&hide_rank=true"
-    alt="GitHub Stats"
-    width="100%"
-  />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupu-techu&theme=radical"
+  alt="Top Languages by Repository"
+/>
 </td>
 
 <td align="center" width="50%">
 <img
-  src="https://streak-stats.demolab.com?user=Rupu-techu&theme=radical&hide_border=true&cache_seconds=86400"
-  alt="GitHub Streak"
-  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupu-techu&theme=radical"
+  alt="Top Languages by Commit"
 />
 </td>
 
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
+<!-- ─── Stats + Streak ───────────────────────────────────────────── -->
+<table border="0" cellspacing="15" cellpadding="0" width="900">
+<tr>
+
+<td align="center" width="50%">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rupu-techu&theme=radical"
+  alt="GitHub Statistics"
+/>
+</td>
+
+<td align="center" width="50%">
+<img
+  src="https://streak-stats.demolab.com?user=Rupu-techu&theme=radical&hide_border=true"
+  alt="GitHub Streak"
+/>
+</td>
+
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- ─── Commit Rhythm ────────────────────────────────────────────── -->
 <p align="center">
   <img
     src="./assets/commit_rhythm_waveform_preview.svg"
@@ -261,6 +284,8 @@ participation.
     alt="Commit Rhythm Waveform"
   />
 </p>
+
+</div>
 
 </div>
 
