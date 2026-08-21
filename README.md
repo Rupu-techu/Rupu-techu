@@ -264,10 +264,10 @@ participation.
   />
 </td>
 
-<td align="center" width="50%">
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Rupu-techu&theme=radical&hide_border=true"
-  alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rupu-techu&theme=radical&hide_border=true&background=0d1117&ring=B784F7&fire=FF4F9A&currStreakLabel=B784F7"
+    alt="GitHub Streak"
   />
 </td>
 
